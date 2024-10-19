@@ -1,4 +1,4 @@
-# Algorithmic_Solutions
+# Solutions
 
 Algorithmic solutions of tasks with various difficulties with JS. 
 
